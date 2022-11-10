@@ -1,0 +1,33 @@
+_id: req_40902b62623543f58b351b17f9811c0f
+type: Request
+parentId: fld_ddb5b2a646964482a0e55a9d01e2fe48
+modified: 1668038544270
+created: 1668036138609
+url: " http://127.0.0.1:3333/login"
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_3dca4495df224e248c59172a4b48c6c8
+      name: email
+      value: teste2@teste.com
+      description: ""
+    - id: pair_dd0aff5fad184c958323ce0d3b6cbfc0
+      name: password
+      value: "654321"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1668034744964.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_5c8761822c994824a818411adfcdf7c2
+type: Request
+parentId: fld_dba7915d9a69456cbc2040387de4747b
+modified: 1668038575595
+created: 1668035302774
+url: " http://127.0.0.1:3333/suplementos"
+name: Listar Todas
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: Mg.2snJUEW6lV9iz0qRPNIGtyybruQ4oF_BmuOjwpKViJgY7BfDjS9AODZPK3Rs
+metaSortKey: -1668034744946
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

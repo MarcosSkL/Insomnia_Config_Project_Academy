@@ -1,0 +1,35 @@
+_id: req_119453afdff040f0be7564bbaa2aa95b
+type: Request
+parentId: fld_ddb5b2a646964482a0e55a9d01e2fe48
+modified: 1668037699835
+created: 1668037537997
+url: http://127.0.0.1:3333/users/2
+name: Atualizar Usuarios
+description: ""
+method: PATCH
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_27891ddf62034c28be3022a293ac527d
+      name: email
+      value: teste3@teste.com
+      description: ""
+      disabled: true
+    - id: pair_68c92bcd15cd44e7bc4bd38759f16c7d
+      name: password
+      value: "654321"
+      description: ""
+      disabled: false
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1668034744967.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

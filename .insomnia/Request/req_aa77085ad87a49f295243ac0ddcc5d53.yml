@@ -1,0 +1,37 @@
+_id: req_aa77085ad87a49f295243ac0ddcc5d53
+type: Request
+parentId: fld_ddb5b2a646964482a0e55a9d01e2fe48
+modified: 1668035320342
+created: 1668035280509
+url: " http://127.0.0.1:3333/academia"
+name: Deletar Academia
+description: ""
+method: DELETE
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_6eda6ba63d2c4e109be733fad33b9057
+      name: endereco
+      value: ""
+      description: ""
+    - id: pair_0727d990e12949fab2259141da719a50
+      name: numero
+      value: ""
+      description: ""
+    - id: pair_8e1ed2c1518843768cf3557ab3d8611c
+      name: nome
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1664706749943.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

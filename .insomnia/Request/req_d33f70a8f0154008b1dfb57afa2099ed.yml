@@ -1,0 +1,35 @@
+_id: req_d33f70a8f0154008b1dfb57afa2099ed
+type: Request
+parentId: fld_ddb5b2a646964482a0e55a9d01e2fe48
+modified: 1668039175673
+created: 1668039145540
+url: http://127.0.0.1:3333/users
+name: Cadastrar Usuarios
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_27891ddf62034c28be3022a293ac527d
+      name: email
+      value: teste3@teste.com
+      description: ""
+      disabled: false
+    - id: pair_68c92bcd15cd44e7bc4bd38759f16c7d
+      name: password
+      value: "123456"
+      description: ""
+      disabled: false
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1668034744969.4375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

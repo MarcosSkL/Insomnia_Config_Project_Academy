@@ -1,0 +1,41 @@
+_id: req_cd491f2e6d364036a9a88693203e3f9b
+type: Request
+parentId: fld_dba7915d9a69456cbc2040387de4747b
+modified: 1668035538435
+created: 1668035302798
+url: " http://127.0.0.1:3333/suplementos"
+name: Cadastrar Suplementos
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_6eda6ba63d2c4e109be733fad33b9057
+      name: nome
+      value: WheySuperShark
+      description: ""
+    - id: pair_0727d990e12949fab2259141da719a50
+      name: marca
+      value: SharkBoy
+      description: ""
+    - id: pair_8e1ed2c1518843768cf3557ab3d8611c
+      name: quantidade
+      value: "18"
+      description: ""
+    - id: pair_f24ccdd96f90408d980f0048aac9f3ce
+      name: precos
+      value: "199"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1666133033516
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

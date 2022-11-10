@@ -1,0 +1,41 @@
+_id: req_31673c6e68624bce90eca8ceb55976cb
+type: Request
+parentId: fld_dba7915d9a69456cbc2040387de4747b
+modified: 1668035536144
+created: 1668035473494
+url: " http://127.0.0.1:3333/suplementos"
+name: Deletar Suplementos
+description: ""
+method: DELETE
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_6eda6ba63d2c4e109be733fad33b9057
+      name: nome
+      value: ""
+      description: ""
+    - id: pair_0727d990e12949fab2259141da719a50
+      name: marca
+      value: ""
+      description: ""
+    - id: pair_8e1ed2c1518843768cf3557ab3d8611c
+      name: quantidade
+      value: ""
+      description: ""
+    - id: pair_f24ccdd96f90408d980f0048aac9f3ce
+      name: precos
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1665419891729.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

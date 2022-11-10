@@ -1,0 +1,25 @@
+_id: req_94f93e3af073483ab4e541fb102edc08
+type: Request
+parentId: fld_ddb5b2a646964482a0e55a9d01e2fe48
+modified: 1668037177157
+created: 1668037086145
+url: " http://127.0.0.1:3333/users"
+name: Listar Usuarios
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1668034744958.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
