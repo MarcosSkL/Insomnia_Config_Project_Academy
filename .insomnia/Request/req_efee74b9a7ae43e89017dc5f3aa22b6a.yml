@@ -1,7 +1,7 @@
 _id: req_efee74b9a7ae43e89017dc5f3aa22b6a
 type: Request
 parentId: fld_ddb5b2a646964482a0e55a9d01e2fe48
-modified: 1668036538505
+modified: 1668644976650
 created: 1668034744946
 url: " http://127.0.0.1:3333/academia"
 name: Listar Todas
@@ -12,7 +12,7 @@ parameters: []
 headers: []
 authentication:
   type: bearer
-  token: MQ.RpNAaMM8QVzFpbb6ULunwnF6xzq34QgZTT4BxUUPebhvWtSo5ZgLOsWubvLS
+  token: "{{ _.token }}"
 metaSortKey: -1668034744946
 isPrivate: false
 settingStoreCookies: true

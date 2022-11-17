@@ -1,7 +1,7 @@
 _id: req_119453afdff040f0be7564bbaa2aa95b
 type: Request
-parentId: fld_ddb5b2a646964482a0e55a9d01e2fe48
-modified: 1668037699835
+parentId: fld_f8b4dbcfa6f548db9c912c082c0a7b11
+modified: 1668645018955
 created: 1668037537997
 url: http://127.0.0.1:3333/users/2
 name: Atualizar Usuarios
@@ -14,7 +14,7 @@ body:
       name: email
       value: teste3@teste.com
       description: ""
-      disabled: true
+      disabled: false
     - id: pair_68c92bcd15cd44e7bc4bd38759f16c7d
       name: password
       value: "654321"
@@ -25,7 +25,7 @@ headers:
   - name: Content-Type
     value: application/x-www-form-urlencoded
 authentication: {}
-metaSortKey: -1668034744967.875
+metaSortKey: -1668034744944.4375
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
